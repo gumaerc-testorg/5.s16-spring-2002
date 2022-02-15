@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-s16-advanced-kitchen-chemistry-spring-2002/45fdd18e35952ea5354120adce6dba2d_week7.pdf
+file: /media/courses/5-s16-advanced-kitchen-chemistry-spring-2002/45fdd18e35952ea5354120adce6dba2d_week7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: week7.pdf
 uid: 45fdd18e-3595-2ea5-3541-20adce6dba2d
