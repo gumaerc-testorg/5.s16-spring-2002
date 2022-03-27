@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b0d79be5-e1af-c89f-ee76-86a05fe6af73
 resourcetype: Document
 title: week12.pdf
 uid: 33ad6afb-7190-5261-45fb-85e86bd347d6

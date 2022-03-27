@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 6ef7dca2-896e-635b-db3f-f775ac8736d2
 resourcetype: Document
 title: veggies.pdf
 uid: fec2b757-4870-71f2-4db4-8dd1e28f3b67

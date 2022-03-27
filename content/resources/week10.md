@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b0d79be5-e1af-c89f-ee76-86a05fe6af73
 resourcetype: Document
 title: week10.pdf
 uid: 568dce8c-436c-962c-6487-bd81f0c55206

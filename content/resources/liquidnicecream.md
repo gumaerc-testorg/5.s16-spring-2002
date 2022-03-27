@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 299dd4e5-4c91-4b65-d9cd-bb46bfa57f63
 resourcetype: Document
 title: liquidnicecream.pdf
 uid: 2856b091-7ba4-e812-1725-87eb392126b8

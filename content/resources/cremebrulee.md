@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 299dd4e5-4c91-4b65-d9cd-bb46bfa57f63
 resourcetype: Document
 title: cremebrulee.pdf
 uid: 7913c9ea-acb2-91fe-a54b-ea76ed112785
