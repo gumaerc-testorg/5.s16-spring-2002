@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /media/courses/5-s16-advanced-kitchen-chemistry-spring-2002/568dce8c436c962c6487bd81f0c55206_week10.pdf
+file: /courses/5-s16-advanced-kitchen-chemistry-spring-2002/568dce8c436c962c6487bd81f0c55206_week10.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: week10.pdf
 uid: 568dce8c-436c-962c-6487-bd81f0c55206
 ---
+Homework assignment.
+

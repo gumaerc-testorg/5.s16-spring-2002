@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines and instructions for preparing baked potatoes.
-file: /media/courses/5-s16-advanced-kitchen-chemistry-spring-2002/261d1994118a183f0bdb41b8c79b8f5a_potatoes.pdf
+file: /courses/5-s16-advanced-kitchen-chemistry-spring-2002/261d1994118a183f0bdb41b8c79b8f5a_potatoes.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: potatoes.pdf
 uid: 261d1994-118a-183f-0bdb-41b8c79b8f5a
 ---
+Guidelines and instructions for preparing baked potatoes.
+
