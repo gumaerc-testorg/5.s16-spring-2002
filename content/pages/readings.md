@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the readings assignments for each session of the
+  course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 299dd4e5-4c91-4b65-d9cd-bb46bfa57f63
 ---
@@ -38,7 +43,7 @@ Recipe: Basic Brownies: _ The Best Recipe_ by the Editors of Cook's Illustrated
 
 McGee, Harold, pp. 285-305 and 397-409.
 
-[Additional reading]({{< baseurl >}}/pages/related-resources#How_Do)
+{{% resource_link 6ef7dca2-896e-635b-db3f-f775ac8736d2 "Additional reading" "#How_Do" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,11 +57,11 @@ Cheese
 {{< tdopen >}}
 
 
-Recipe: Lemon cheese ([PDF]({{< baseurl >}}/resources/lemon_cheese))
+Recipe: Lemon cheese ({{% resource_link 49f8ac52-b57a-8fc2-4fcb-1fece815c771 "PDF" %}})
 
 McGee, Harold, pp. 36-53.
 
-[Additional reading]({{< baseurl >}}/pages/related-resources#Cheese)
+{{% resource_link 6ef7dca2-896e-635b-db3f-f775ac8736d2 "Additional reading" "#Cheese" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +79,7 @@ Recipe: [Steamed vegetable dumplings](http://web.archive.org/web/20090210053545/
 
 McGee, Harold, pp. 615-617.
 
-[Additional reading]({{< baseurl >}}/pages/related-resources#Tofu)
+{{% resource_link 6ef7dca2-896e-635b-db3f-f775ac8736d2 "Additional reading" "#Tofu" %}}
 
 
 {{< tdclose >}}
@@ -90,11 +95,11 @@ Marinades
 {{< tdopen >}}
 
 
-Recipe: Chicken oriental ([PDF]({{< baseurl >}}/resources/chickenoriental))
+Recipe: Chicken oriental ({{% resource_link f8d5062d-c51b-2f9c-8722-4ca6577ec4a0 "PDF" %}})
 
 McGee, Harold, pp. 82-122, 156, 207-208, and 253.
 
-[Additional reading]({{< baseurl >}}/pages/related-resources#Marinades)
+{{% resource_link 6ef7dca2-896e-635b-db3f-f775ac8736d2 "Additional reading" "#Marinades" %}}
 
 
 {{< tdclose >}}
@@ -114,7 +119,7 @@ Recipe: [Butterscotch lollipop](http://completerecipes.com/Sees-Butterscotch-Lol
 
 McGee, Harold, pp. 409-425 and 608-610.
 
-[Additional reading]({{< baseurl >}}/pages/related-resources#Candy)
+{{% resource_link 6ef7dca2-896e-635b-db3f-f775ac8736d2 "Additional reading" "#Candy" %}}
 
 
 {{< tdclose >}}
@@ -136,7 +141,7 @@ Take a look at the recipe. This is a basic muffin recipe. It is up to you to dec
 
 McGee, Harold, pp. 560-574.
 
-[Additional reading]({{< baseurl >}}/pages/related-resources#Muffins)
+{{% resource_link 6ef7dca2-896e-635b-db3f-f775ac8736d2 "Additional reading" "#Muffins" %}}
 
 
 {{< tdclose >}}
@@ -156,7 +161,7 @@ Recipe: [Root beer](http://www.mccormick.com/Recipes/Beverages-Cocktails/Homemad
 
 McGee, Harold, pp. 466-481, 505-507, and 160.
 
-[Additional reading]({{< baseurl >}}/pages/related-resources#RootBeer)
+{{% resource_link 6ef7dca2-896e-635b-db3f-f775ac8736d2 "Additional reading" "#RootBeer" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +179,7 @@ You are going to design a cake recipe. All purpose flour, white sugar, eggs, bak
 
 McGee, Harold, pp. 321-326.
 
-[Additional reading]({{< baseurl >}}/pages/related-resources#Cake)
+{{% resource_link 6ef7dca2-896e-635b-db3f-f775ac8736d2 "Additional reading" "#Cake" %}}
 
 
 {{< tdclose >}}
@@ -190,11 +195,11 @@ Ice cream
 {{< tdopen >}}
 
 
-Recipe: Ice cream ([PDF]({{< baseurl >}}/resources/liquidnicecream))
+Recipe: Ice cream ({{% resource_link 2856b091-7ba4-e812-1725-87eb392126b8 "PDF" %}})
 
 McGee, Harold, pp. 23-31.
 
-[Additional reading]({{< baseurl >}}/pages/related-resources#IceCream)
+{{% resource_link 6ef7dca2-896e-635b-db3f-f775ac8736d2 "Additional reading" "#IceCream" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +215,7 @@ Fruit pizza
 
 Recipe: [Fruit pizza](http://www.esva.net/martha/96030503-Fruit_Pizza.html)
 
-[Additional reading]({{< baseurl >}}/pages/related-resources#FruitPizza)
+{{% resource_link 6ef7dca2-896e-635b-db3f-f775ac8736d2 "Additional reading" "#FruitPizza" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,11 +245,11 @@ Recipes: 
 
 *   1\. [BBQ Chicken](http://www.foodnetwork.com/recipes/patrick-and-gina-neely/barbecue-chicken-recipe-1953222
     )
-*   2\. Creme brulee ([PDF]({{< baseurl >}}/resources/cremebrulee))
+*   2\. Creme brulee ({{% resource_link 7913c9ea-acb2-91fe-a54b-ea76ed112785 "PDF" %}})
 
 Today we will have a discussion of food safety and barbecueing. 
 
-[Additional reading]({{< baseurl >}}/pages/related-resources#Barbecue)
+{{% resource_link 6ef7dca2-896e-635b-db3f-f775ac8736d2 "Additional reading" "#Barbecue" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

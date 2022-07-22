@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides additional readings on kitchen experiments, cheese,
+  tofu, marinades, candy, muffins, root beer, cake, ice cream, fruit pizza, and barbecue.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 6ef7dca2-896e-635b-db3f-f775ac8736d2
 ---
@@ -129,8 +133,8 @@ Since you are the teacher this week, feel free to assign your student reading as
 {{< anchor "Barbecue" >}}{{< /anchor >}}Barbecue
 ------------------------------------------------
 
-Grilling beef ([PDF]({{< baseurl >}}/resources/beef))
+Grilling beef ({{% resource_link 577b2fd7-af44-4fec-b447-0a4774dbc5f5 "PDF" %}})
 
-Grilling vegetables ([PDF]({{< baseurl >}}/resources/veggies))
+Grilling vegetables ({{% resource_link fec2b757-4870-71f2-4db4-8dd1e28f3b67 "PDF" %}})
 
-Baked potatoes ([PDF]({{< baseurl >}}/resources/potatoes))
+Baked potatoes ({{% resource_link 261d1994-118a-183f-0bdb-41b8c79b8f5a "PDF" %}})
