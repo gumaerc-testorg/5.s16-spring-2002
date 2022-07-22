@@ -4,6 +4,7 @@ description: Guidelines and instructions for grilling beef.
 file: /courses/5-s16-advanced-kitchen-chemistry-spring-2002/577b2fd7af444fecb4470a4774dbc5f5_beef.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: beef.pdf
 uid: 577b2fd7-af44-4fec-b447-0a4774dbc5f5
 ---
 Guidelines and instructions for grilling beef.
-

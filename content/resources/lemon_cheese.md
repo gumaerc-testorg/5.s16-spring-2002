@@ -5,6 +5,7 @@ file: /courses/5-s16-advanced-kitchen-chemistry-spring-2002/49f8ac52b57a8fc24fcb
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lemon_cheese.pdf
 uid: 49f8ac52-b57a-8fc2-4fcb-1fece815c771
 ---
 Recipe: lemon cheese.
-

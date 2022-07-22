@@ -5,6 +5,7 @@ file: /courses/5-s16-advanced-kitchen-chemistry-spring-2002/45fdd18e35952ea53541
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: week7.pdf
 uid: 45fdd18e-3595-2ea5-3541-20adce6dba2d
 ---
 Homework assignment.
-

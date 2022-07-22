@@ -6,6 +6,7 @@ file: /courses/5-s16-advanced-kitchen-chemistry-spring-2002/2856b0917ba4e8121725
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: liquidnicecream.pdf
 uid: 2856b091-7ba4-e812-1725-87eb392126b8
 ---
 Recipe: Liquid Nitrogen Ice Cream, adapted from a Ben and Jerry?s Ice Cream book.
-

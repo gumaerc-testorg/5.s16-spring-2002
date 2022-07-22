@@ -5,6 +5,7 @@ file: /courses/5-s16-advanced-kitchen-chemistry-spring-2002/f8d5062dc51b2f9c8722
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: chickenoriental.pdf
 uid: f8d5062d-c51b-2f9c-8722-4ca6577ec4a0
 ---
 Recipe: Chicken Oriental, from Patti?s mom in Thunder Bay, Canada.
-
